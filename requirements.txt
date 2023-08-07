@@ -54,6 +54,7 @@ traitlets==5.3.0
 trio==0.19.0
 trio-websocket==0.9.2
 urllib3==1.26.7
+uWSGI==2.0.21
 wcwidth==0.2.5
 wsproto==1.0.0
 xbrl==0.0.1
